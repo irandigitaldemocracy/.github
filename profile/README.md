@@ -4,7 +4,7 @@
 
 🌈  For contribution please check our repos and join our discussions.
 
-🗽  Join us! This is a open movement without a leader. We are a community. Join us in [discord](https://discord.gg/2zkS4MekxB) and here.
+🗽  Join us! This is a open movement without a leader. We are a community. Get in touch with us at [discord](https://discord.gg/2zkS4MekxB) and here.
 
 <!--
 
