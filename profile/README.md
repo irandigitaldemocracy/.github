@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-🙋‍ We are an open digital movement with the goal of bringing democracy to Iran.
+🙋‍We are an open digital movement with the goal of bringing democracy to Iran.
+
 🌈  For contribution please check our repos and join our discussions.
+
 🗽  Join us! This is a open movement without a leader. We are a community
+
 <!--
 
 **Here are some ideas to get you started:**
