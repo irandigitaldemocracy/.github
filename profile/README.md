@@ -6,7 +6,8 @@
 
 ما به نقش دولت از صفر نگاه می‌کنیم.
 
-با ما در [discord](https://discord.gg/ku8Mc2bbCX) به پیوند
+با ما در [GitHub](https://github.com/ososIran/Community/discussions/1) به پیوندید و اهداف خود را بیان کنید
+و [discord](https://discord.gg/ku8Mc2bbCX) در ارتباط باشید
 
 ## Hi there 👋
 
