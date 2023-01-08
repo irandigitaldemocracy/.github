@@ -1,4 +1,4 @@
-## باز‌متن باز‌علم ایران
+##  Open Source Open Science Iran -  باز‌متن باز‌علم ایران
 
 ما یک جنبش با اهداف دموکراسی مشارکتی مردمی با استفاده از نوآوری در ابزار دیجیتال، دولت باز، علم باز و نرم افزار بازمتن و شفافیت رادیکال برای آینده ایران هستیم.
 
@@ -14,7 +14,7 @@
 و در [discord](https://discord.gg/ku8Mc2bbCX) در ارتباط باشید
 
 
-## Hi there 👋
+## Open Source Open Science Iran 
 
 🙋‍We are an open digital movement with the goal of bringing democracy, open governance, open source, open science to Iran.
 
