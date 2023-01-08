@@ -6,13 +6,15 @@
 
 ما به نقش دولت از صفر نگاه می‌کنیم.
 
+با ما در [discord](https://discord.gg/ku8Mc2bbCX) به پیوند
+
 ## Hi there 👋
 
 🙋‍We are an open digital movement with the goal of bringing democracy, open governance, open source, open science to Iran.
 
 🌈  For contribution please check our repos and join our discussions.
 
-🗽  Join us! This is an open movement without a leader. We are a community. Get in touch with us at [discord](https://discord.gg/2zkS4MekxB) and here.
+🗽  Join us! This is an open movement without a leader. We are a community. Get in touch with us at [discord](https://discord.gg/ku8Mc2bbCX) and here.
 
 <!--
 
